@@ -1,8 +1,8 @@
-Sistema de Agendamento de Treinamento
+#Sistema de Agendamento de Treinamento
 Este é um sistema desenvolvido para a empresa XYZ, especializada em capacitações no ramo da fisioterapia. O objetivo é organizar e gerenciar a agenda de treinamentos, substituindo o uso de planilhas do Excel por uma solução mais eficiente e moderna.
 
-Funcionalidades Principais:
-Cadastro de Professores:
+#Funcionalidades Principais:
+#Cadastro de Professores:
 
 Nome
 CPF
@@ -11,7 +11,7 @@ Endereço
 Celular
 Cadastro de Cursos:
 
-Descrição
+#Descrição
 Carga horária
 Objetivos
 Ementa
