@@ -54,7 +54,7 @@ Este sistema foi desenvolvido para a empresa XYZ, especializada em capacitaçõe
 ## Como Executar:
 
 1. Clone este repositório: `git clone <link_do_repositorio>`
-2. Importe o projeto em sua IDE favorita
+2. Importe o projeto em sua IDE
 3. Configure o banco de dados de acordo com as configurações do arquivo `application.properties`
 4. Execute o projeto
 5. Acesse a aplicação através do navegador web: `http://localhost:8080`
