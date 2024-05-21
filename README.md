@@ -4,23 +4,6 @@ Este sistema foi desenvolvido para a empresa XYZ, especializada em capacitaçõe
 
 ## Funcionalidades Principais:
 
-## Diagrama de Classe
-+------------------+        +-----------------+       +---------------+
-|     Professor    |        |      Curso      |       |   Treinamento |
-+------------------+        +-----------------+       +---------------+
-| - id: int        |        | - id: int       |       | - id: int     |
-| - nome: string   |        | - descricao:    |       | - data: date  |
-| - cpf: string    |        |     string      |       | - horario:    |
-| - rg: string     |        | - cargaHoraria: |       |   string      |
-| - endereco:      |        |     int         |       | - professor:  |
-|   string         |        | - objetivos:    |       |   Professor   |
-| - celular:       |        |     string      |       | - cidade:     |
-|   string         |        | - ementa:       |       |   string      |
-| - especializacao |        +-----------------+       | - estado:     |
-|   string         |                                  |   string      |
-+------------------+                                  | - cep: string |
-                                                      +---------------+
-
 
 ### Cadastro de Professores:
 
